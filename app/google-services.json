@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638354071375",
+    "firebase_url": "https://glamp-5a6e1.firebaseio.com",
+    "project_id": "glamp-5a6e1",
+    "storage_bucket": "glamp-5a6e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638354071375:android:bf5339660108a513",
+        "android_client_info": {
+          "package_name": "com.example.glamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638354071375-191q2q6t50m4c3kt785k8rhc1o8k5tk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glamp",
+            "certificate_hash": "080819d1c91925539a27500817ba669fcd816445"
+          }
+        },
+        {
+          "client_id": "638354071375-2uuhvuqh658l9l10tfj5os69ct975f1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHa3suZyi1moZll9BpcZfq0k8xnRR0B5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638354071375-2uuhvuqh658l9l10tfj5os69ct975f1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
